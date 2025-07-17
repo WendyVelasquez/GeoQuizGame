@@ -12,11 +12,11 @@ window.title("GeoQuiz")
 window.geometry("650x550")
 window.resizable(width=False, height=False)
 
-font_title = ("Chelsea Market", 32, "bold")
-font_subtitle = ("Chelsea Market", 18, "bold")
-font_question = ("Chelsea Market", 15, "bold")
-font_answer = ("Chelsea Market", 15, "underline")
-font_text = ("Chelsea Market", 14)
+font_title = ("Consolas", 32, "bold")
+font_subtitle = ("Consolas", 18, "bold")
+font_question = ("Consolas", 15, "bold")
+font_answer = ("Consolas", 15, "underline")
+font_text = ("Consolas", 14)
 
 player_name = ""
 num_questions = 0
